@@ -280,15 +280,28 @@ client = RailScoreClient(
 )
 ```
 
+## 💳 Plans & Credits
+
+| Plan | Monthly Credits | Auto-Renewal | Price (Monthly) | Price (Yearly/month) |
+|------|-----------------|--------------|-----------------|---------------------|
+| **Free** | 100 | Every 30 days | Free | Free |
+| **Pro** | 1,000 | Every 30 days | ₹2,399 / $29 | ₹1,999 / $23 |
+| **Business** | 10,000 | Every 30 days | ₹21,999 / $247 | ₹18,999 / $214 |
+| **Enterprise** | 50,000 | Every 30 days | Contact Sales | Contact Sales |
+
+**Credit Expiry:**
+- Monthly tier credits expire in 30 days
+- Purchased topup credits never expire
+- Get your API key at: https://responsibleailabs.ai/dashboard
+
 ## 📊 Rate Limits
 
-| Tier | Requests/Minute |
-|------|----------------|
-| Free | 5 |
-| Starter | 20 |
-| Professional | 60 |
-| Business | 120 |
-| Enterprise | Custom |
+| Endpoint Type | Rate Limit |
+|---------------|------------|
+| **API Endpoints** | 60 requests / minute |
+| **Auth Endpoints** | 5 requests / 15 minutes |
+
+**Note:** Rate limits apply per API key, regardless of plan tier.
 
 ## 🧪 Testing
 
