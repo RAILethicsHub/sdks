@@ -324,13 +324,24 @@ mypy rail_score_sdk/
 
 ## 📖 Examples
 
-See the [examples](examples/) directory for more usage examples:
+See the [examples](examples/) directory for comprehensive usage examples:
 
-- `basic_usage.py` - Basic RAIL scoring
-- `content_generation.py` - Generate and improve content
-- `tone_matching.py` - Tone analysis and matching
-- `compliance_check.py` - Compliance evaluation
-- `batch_processing.py` - Process multiple texts
+**Beginner:**
+- `basic_usage.py` - Basic RAIL scoring and evaluation
+- `content_generation.py` - Generate content with RAIL checks
+- `tone_matching.py` - Tone analysis and brand voice matching
+
+**Intermediate:**
+- `regenerate_content.py` - Improve and refine existing content
+- `compliance_check.py` - GDPR, HIPAA, NIST, SOC2 compliance
+- `batch_processing.py` - Process multiple texts efficiently
+
+**Advanced:**
+- `error_handling.py` - Production-ready error handling
+- `advanced_features.py` - Custom weights, workflows, and analytics
+- `environment_config.py` - Multi-environment deployment setup
+
+See [examples/README.md](examples/README.md) for detailed documentation.
 
 ## 🤝 Contributing
 
