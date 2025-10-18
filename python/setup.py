@@ -13,7 +13,7 @@ setup(
     description="Official Python SDK for RAIL Score API - Responsible AI Content Evaluation",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/RAILethicsHub/sdks/python",
+    url="https://github.com/RAILethicsHub/rail-score/tree/main/python",
     packages=find_packages(exclude=["tests", "tests.*", "examples", "*.tests", "*.tests.*"]),
     classifiers=[
         "Development Status :: 4 - Beta",
@@ -54,7 +54,8 @@ setup(
     project_urls={
         "Documentation": "https://responsibleailabs.ai/developer/docs",
         "API Reference": "https://responsibleailabs.ai/developers/api-ref",
-        "Source": "https://github.com/RAILethicsHub/sdks/python",
-        "Bug Reports": "https://github.com/RAILethicsHub/sdks/python/issues",
+        "Source": "https://github.com/RAILethicsHub/rail-score/tree/main/python",
+        "Bug Reports": "https://github.com/RAILethicsHub/rail-score/issues",
+        "Changelog": "https://github.com/RAILethicsHub/rail-score/blob/main/python/CHANGELOG.md",
     },
 )
