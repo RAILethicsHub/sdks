@@ -352,6 +352,6 @@ Special thanks to:
 
 ---
 
-**Ready to get started?** Choose your SDK above or [sign up for a free account](https://responsibleailabs.ai/signup) today!
+**Ready to get started?** Choose your SDK above or [sign up for a free account](https://responsibleailabs.ai/register) today!
 
 For questions, reach out to research@responsibleailabs.ai or join our [Discord community](https://responsibleailabs.ai/discord).
