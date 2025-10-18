@@ -28,7 +28,7 @@ RAIL Score provides comprehensive evaluation of AI-generated content across 8 cr
 [![PyPI version](https://badge.fury.io/py/rail-score-sdk.svg)](https://pypi.org/project/rail-score-sdk/1.0.0/)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 
-**Status:** ✅ Production Ready (v1.0.0)
+**Status:** ✅ Production Ready (v1.0.1)
 
 ```bash
 pip install rail-score-sdk
@@ -224,7 +224,7 @@ in the Software without restriction...
 ## 🗺️ Roadmap
 
 ### Q1 2025
-- ✅ Python SDK v1.0.0 (Released)
+- ✅ Python SDK v1.0.1 (Released)
 - 🚧 JavaScript/TypeScript SDK v1.0.0
 - 📋 Python SDK examples library expansion
 - 📋 API v2 features support
@@ -273,7 +273,7 @@ sdks/
 
 | Language | Status | Installation | Documentation |
 |----------|--------|--------------|---------------|
-| **Python** | ✅ v1.0.0 | `pip install rail-score-sdk` | [Docs](python/README.md) |
+| **Python** | ✅ v1.0.1 | `pip install rail-score-sdk` | [Docs](python/README.md) |
 | **JavaScript** | 🚧 Coming | `npm install @rail-score/sdk` | Coming Soon |
 | **Go** | 📋 Planned | `go get rail-score/sdk` | Coming Soon |
 | **Java** | 📋 Planned | Maven/Gradle | Coming Soon |
