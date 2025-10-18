@@ -25,7 +25,7 @@ RAIL Score provides comprehensive evaluation of AI-generated content across 8 cr
 
 ### Python SDK
 
-[![PyPI version](https://badge.fury.io/py/rail-score-sdk.svg)](https://pypi.org/project/rail-score-sdk/)
+[![PyPI version](https://badge.fury.io/py/rail-score-sdk.svg)](https://pypi.org/project/rail-score-sdk/1.0.0/)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 
 **Status:** ✅ Production Ready (v1.0.0)
