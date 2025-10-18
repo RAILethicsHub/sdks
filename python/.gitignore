@@ -146,3 +146,4 @@ Thumbs.db
 *.pem
 .env.local
 .env.*.local
+rail_s_p/
