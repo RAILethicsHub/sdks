@@ -1,0 +1,32 @@
+# Include documentation and configuration files
+include README.md
+include LICENSE
+include CHANGELOG.md
+include CONTRIBUTING.md
+
+# Include requirements files
+include requirements.txt
+include requirements-dev.txt
+
+# Include example files
+recursive-include examples *.py
+
+# Exclude test files from distribution
+exclude test_*.py
+exclude tox.ini
+exclude .gitignore
+exclude .coverage
+
+# Exclude development and CI files
+exclude .github
+recursive-exclude .github *
+exclude .vscode
+recursive-exclude .vscode *
+exclude .idea
+recursive-exclude .idea *
+
+# Exclude cache and build artifacts
+global-exclude __pycache__
+global-exclude *.py[cod]
+global-exclude *.so
+global-exclude .DS_Store
